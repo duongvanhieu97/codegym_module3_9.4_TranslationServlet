@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="codegym_module3_9.4_simple_dictionary:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>codegym_module3_9.4_simple_dictionary</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="simpleDictionary-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="codegym_module3_9.4_simple_dictionary:war exploded" />
+    </root>
+  </artifact>
+</component>
